@@ -1,3 +1,3 @@
-# pico_ic746cat
+# Pico_IC746CAT
 
 File's are coming soon so please keep checking back....
