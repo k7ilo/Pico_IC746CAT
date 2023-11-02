@@ -1,1 +1,1 @@
-Put the "Pico_IC746CAT-main" folder in your Arduino "libraries" folder.
+Unzip and move or copy/paste the "Pico_IC746CAT-main" folder in your Arduino "libraries" folder.
